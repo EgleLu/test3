@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+$primary-color: pink;
+
+h1{
+    color: $primary-color;
+}
+
+p{
+    text-align: center;
+}
+li{
+    color: $primary-color;
+}
+h6{
+    color: $primary-color;
+}
+h3{
+    color: $primary-color;
+}
